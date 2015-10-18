@@ -1,0 +1,24 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mywebsite.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfrancais/nodejstuto.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Thomas FRANÇAIS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfrancais/nodejstuto/issues"
+  },
+  "homepage": "https://github.com/tfrancais/nodejstuto#readme"
+}
